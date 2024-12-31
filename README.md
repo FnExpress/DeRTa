@@ -17,6 +17,7 @@ If you have any questions, please feel free to email the first author: [Youliang
 
 ## Model
 
+
 :star: **Highlight** :star:
 - Thanks to [Nathaniel Li](https://scholar.google.com/citations?user=2XmBzbcAAAAJ&hl=en)'s kind reminder, we uploaded the model weight on Hugging Face.
 - :hugs: Try the trained models at the HuggingFace model hub:
